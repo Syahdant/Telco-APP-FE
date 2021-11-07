@@ -24,10 +24,7 @@ class regist2 extends Component {
         </View>
         <Text style={styles.regText1}>Langkah 2 dari 3</Text>
         <Text style={styles.registerText}>Verifikasi</Text>
-        <Text style={styles.regText2}>
-          Registrasikan diri kamu untuk melanjutkan ke tahap verifikasi kode
-          OTP.
-        </Text>
+        <Text style={styles.regText2}>Nyoba nyoba</Text>
         <Text style={styles.regText3}>Sudah memiliki akun? Masuk</Text>
         <TextInput
           value={this.state.email}
